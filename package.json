@@ -1,0 +1,23 @@
+{
+  "name": "gerenciador-de-lista-api",
+  "version": "1.0.0",
+  "description": "backend para preservacao da lista",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emesonbandeira/gerenciador-de-lista-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emesonbandeira/gerenciador-de-lista-api/issues"
+  },
+  "homepage": "https://github.com/emesonbandeira/gerenciador-de-lista-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
